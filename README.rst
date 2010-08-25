@@ -1,3 +1,7 @@
+=================
+Geektime.app
+=================
+
 A simple OS X menu bar status item for geektime.org.
 
 I updated it to be native Objective C.  The only issue I came across is that getting microseconds from an NSDate seems to be pretty much impossible therefore the accuracy is a little off from the original PyObjC version. 
